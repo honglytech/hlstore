@@ -1,5 +1,11 @@
+import { Button } from "@/components/ui/button";
+
 function HomePage() {
-  return <h1>Welcome to HL Store</h1>;
+  return (
+    <div>
+      <Button>Click me</Button>
+    </div>
+  );
 }
 
 export default HomePage;
