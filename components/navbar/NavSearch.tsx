@@ -4,7 +4,7 @@ function NavSearch() {
   return (
     <Input
       type="search"
-      placeholder="search product..."
+      placeholder="Search"
       className="max-w-xs dark:bg-muted"
     />
   );
